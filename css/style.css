@@ -28,7 +28,7 @@ body{
 }
 
 .slider{
-    background: #fff url('https://github.com/haycuoilennao19/Portfolio/blob/master/image/startup-593327_1280.jpg?raw=true') center center /cover;
+    background: #fff url(image/startup-593327_1280.jpg) center center /cover;
     padding: 12rem !important;
     color:#fff !important;
     font-size:2rem !important;
