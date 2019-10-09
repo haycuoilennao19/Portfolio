@@ -28,7 +28,8 @@ body{
 }
 
 .slider{
-    background:url(startup-593327_1280.jpg) center center /cover;
+    background:url('startup-593327_1280.jpg') center center;
+    background-size:cover;
     padding: 12rem !important;
     color:#fff !important;
     font-size:2rem !important;
