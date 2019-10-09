@@ -224,3 +224,16 @@ body{
 @media only screen and (max-width: 990px){
     .progress{ margin-bottom: 20px; }
 }
+
+@media only screen and (max-width: 990px){
+    .nav-link {
+        padding: 1rem !important;
+    }
+    .txt-animation{
+        display:none !important;
+    }
+    .contact-info{
+        font-size: 1rem;
+    }
+    
+}
